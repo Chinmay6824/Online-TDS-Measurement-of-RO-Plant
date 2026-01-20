@@ -1,7 +1,3 @@
-I can create a README.md for Chinmay6824/Online-TDS-Measurement-of-RO-Plant. Below is a suggested README — review and tell me if you want any changes. If it looks good I can commit it to the repository (which branch should I use? default: main) and use commit message "Add README.md".
-
-Suggested README.md:
-
 # Online TDS Measurement of RO Plant
 
 This project develops an IoT-based online TDS monitoring system for an RO plant at Dana Anand Pvt. Limited, Hubli. Using an ESP32 and a TDS sensor, it measures water conductivity, converts the analog signal to digital TDS values in ppm, and sends data via Wi‑Fi to the cloud for real-time monitoring.
@@ -86,8 +82,3 @@ MIT License — see LICENSE file (or let me add an MIT license file if you want)
 Project maintained by Chinmay (GitHub: @Chinmay6824). For questions or deployment help, open an issue or contact the maintainer.
 
 ---
-
-Would you like me to:
-- commit this README.md to the repository now? (confirm branch, default: main)
-- change anything in the content (add wiring diagram, exact pin names, cloud provider instructions, license)?
-If you want me to commit, tell me the branch name and commit message to use (default message: "Add README.md").
